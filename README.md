@@ -1,4 +1,4 @@
-# Game Web Site Project
+# Game Web Site Projecto
 
 This project is a simple website about games, created using HTML and CSS. It showcases various games, their descriptions, and pricing information.
 
@@ -22,4 +22,8 @@ This project is a simple website about games, created using HTML and CSS. It sho
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. Any contributions are welcome.
+
+##DEMO
+
+![demo](https://github.com/user-attachments/assets/a79affc1-971d-4ced-87c5-132a59bcc766)
 
