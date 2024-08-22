@@ -8,17 +8,6 @@ This project is a simple website about games, created using HTML and CSS. It sho
 - *Game Prices*: Detailed information on game pricing.
 - *Responsive Design*: Optimized for different screen sizes.
 
-## Installation
-
-1. Clone the repository:
-   bash
-   git clone https://github.com/Yagmur1505/game-website.git
-   
-2. Navigate to the project directory:
-   bash
-   cd game-website
-   
-3. Open index.html in your web browser to view the website.
 
 ## Usage
 
