@@ -25,5 +25,6 @@ Feel free to fork this repository and submit pull requests. Any contributions ar
 
 ##DEMO
 
-![demo](https://github.com/user-attachments/assets/a79affc1-971d-4ced-87c5-132a59bcc766)
 
+
+![DEMO](https://github.com/user-attachments/assets/d2f05e7d-adee-4154-a392-4dd63943ef9f)
