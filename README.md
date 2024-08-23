@@ -1,4 +1,4 @@
-# Game Web Site Projecto
+# Game Web Site Project
 
 This project is a simple website about games, created using HTML and CSS. It showcases various games, their descriptions, and pricing information.
 
