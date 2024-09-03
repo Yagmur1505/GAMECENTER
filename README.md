@@ -23,7 +23,7 @@ This project is a simple website about games, created using HTML and CSS. It sho
 
 Feel free to fork this repository and submit pull requests. Any contributions are welcome.
 
-##DEMO
+## Demo
 
 
 
